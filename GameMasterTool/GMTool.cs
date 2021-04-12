@@ -17,7 +17,7 @@ namespace GameMasterTool
         {
             InitializeComponent();
             buttonOffset = 6;
-            //FormBorderStyle = FormBorderStyle.None; // Sizable None //
+            FormBorderStyle = FormBorderStyle.Fixed3D; // Sizable None Fixed3D //
             //WindowState = FormWindowState.Maximized; //Maximized Minimized Normal //
 
             //**Ikona programu**//
